@@ -5,6 +5,12 @@ This project is done through the Jonas Ultimate React course. This project is a 
 # 
 https://github.com/Neo7793/use-popcorn/assets/134860589/8d98d5de-233d-47b4-9858-bd46623ff07f
 
+
+# You can check it on : 
+
+https://sina-quiz.netlify.app/
+
+
 # Skills that used in this project
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
